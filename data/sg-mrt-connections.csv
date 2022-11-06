@@ -1,0 +1,287 @@
+from,to
+dhoby ghaut,bras basah
+bras basah,esplanade
+esplanade,promenade
+promenade,nicoll highway
+nicoll highway,stadium
+stadium,mountbatten
+mountbatten,dakota
+dakota,paya lebar
+paya lebar,macpherson
+macpherson,tai seng
+tai seng,bartley
+bartley,serangoon
+serangoon,lorong chuan
+lorong chuan,bishan
+bishan,marymount
+marymount,caldecott
+caldecott,botanic gardens
+botanic gardens,farrer road
+farrer road,holland village
+holland village,buona vista
+buona vista,one-north
+one-north,kent ridge
+kent ridge,haw par villa
+haw par villa,pasir panjang
+pasir panjang,labrador park
+labrador park,telok blangah
+telok blangah,harbourfront
+bras basah,dhoby ghaut
+esplanade,bras basah
+promenade,esplanade
+nicoll highway,promenade
+stadium,nicoll highway
+mountbatten,stadium
+dakota,mountbatten
+paya lebar,dakota
+macpherson,paya lebar
+tai seng,macpherson
+bartley,tai seng
+serangoon,bartley
+lorong chuan,serangoon
+bishan,lorong chuan
+marymount,bishan
+caldecott,marymount
+botanic gardens,caldecott
+farrer road,botanic gardens
+holland village,farrer road
+buona vista,holland village
+one-north,buona vista
+kent ridge,one-north
+haw par villa,kent ridge
+pasir panjang,haw par villa
+labrador park,pasir panjang
+telok blangah,labrador park
+harbourfront,telok blangah
+bayfront,marina bay
+marina bay,bayfront
+expo,changi airport
+changi airport,expo
+bukit panjang,cashew
+cashew,hillview
+hillview,beauty world
+beauty world,king albert park
+king albert park,sixth avenue
+sixth avenue,tan kah kee
+tan kah kee,botanic gardens
+botanic gardens,stevens
+stevens,newton
+newton,little india
+little india,rochor
+rochor,bugis
+bugis,promenade
+promenade,bayfront
+bayfront,downtown
+downtown,telok ayer
+telok ayer,chinatown
+chinatown,fort canning
+fort canning,bencoolen
+bencoolen,jalan besar
+jalan besar,bendemeer
+bendemeer,geylang bahru
+geylang bahru,mattar
+mattar,macpherson
+macpherson,ubi
+ubi,kaki bukit
+kaki bukit,bedok north
+bedok north,bedok reservoir
+bedok reservoir,tampines west
+tampines west,tampines
+tampines,tampines east
+tampines east,upper changi
+upper changi,expo
+cashew,bukit panjang
+hillview,cashew
+beauty world,hillview
+king albert park,beauty world
+sixth avenue,king albert park
+tan kah kee,sixth avenue
+botanic gardens,tan kah kee
+stevens,botanic gardens
+newton,stevens
+little india,newton
+rochor,little india
+bugis,rochor
+promenade,bugis
+bayfront,promenade
+downtown,bayfront
+telok ayer,downtown
+chinatown,telok ayer
+fort canning,chinatown
+bencoolen,fort canning
+jalan besar,bencoolen
+bendemeer,jalan besar
+geylang bahru,bendemeer
+mattar,geylang bahru
+macpherson,mattar
+ubi,macpherson
+kaki bukit,ubi
+bedok north,kaki bukit
+bedok reservoir,bedok north
+tampines west,bedok reservoir
+tampines,tampines west
+tampines east,tampines
+upper changi,tampines east
+expo,upper changi
+pasir ris,tampines
+tampines,simei
+simei,tanah merah
+tanah merah,bedok
+bedok,kembangan
+kembangan,eunos
+eunos,paya lebar
+paya lebar,aljunied
+aljunied,kallang
+kallang,lavender
+lavender,bugis
+bugis,city hall
+city hall,raffles place
+raffles place,tanjong pagar
+tanjong pagar,outram park
+outram park,tiong bahru
+tiong bahru,redhill
+redhill,queenstown
+queenstown,commonwealth
+commonwealth,buona vista
+buona vista,dover
+dover,clementi
+clementi,jurong east
+jurong east,chinese garden
+chinese garden,lakeside
+lakeside,boon lay
+boon lay,pioneer
+pioneer,joo koon
+joo koon,gul circle
+gul circle,tuas crescent
+tuas crescent,tuas west road
+tuas west road,tuas link
+tampines,pasir ris
+simei,tampines
+tanah merah,simei
+bedok,tanah merah
+kembangan,bedok
+eunos,kembangan
+paya lebar,eunos
+aljunied,paya lebar
+kallang,aljunied
+lavender,kallang
+bugis,lavender
+city hall,bugis
+raffles place,city hall
+tanjong pagar,raffles place
+outram park,tanjong pagar
+tiong bahru,outram park
+redhill,tiong bahru
+queenstown,redhill
+commonwealth,queenstown
+buona vista,commonwealth
+dover,buona vista
+clementi,dover
+jurong east,clementi
+chinese garden,jurong east
+lakeside,chinese garden
+boon lay,lakeside
+pioneer,boon lay
+joo koon,pioneer
+gul circle,joo koon
+tuas crescent,gul circle
+tuas west road,tuas crescent
+tuas link,tuas west road
+harbourfront,outram park
+outram park,chinatown
+chinatown,clarke quay
+clarke quay,dhoby ghaut
+dhoby ghaut,little india
+little india,farrer park
+farrer park,boon keng
+boon keng,potong pasir
+potong pasir,woodleigh
+woodleigh,serangoon
+serangoon,kovan
+kovan,hougang
+hougang,buangkok
+buangkok,sengkang
+sengkang,punggol
+outram park,harbourfront
+chinatown,outram park
+clarke quay,chinatown
+dhoby ghaut,clarke quay
+little india,dhoby ghaut
+farrer park,little india
+boon keng,farrer park
+potong pasir,boon keng
+woodleigh,potong pasir
+serangoon,woodleigh
+kovan,serangoon
+hougang,kovan
+buangkok,hougang
+sengkang,buangkok
+punggol,sengkang
+jurong east,bukit batok
+bukit batok,bukit gombak
+bukit gombak,choa chu kang
+choa chu kang,yew tee
+yew tee,kranji
+kranji,marsiling
+marsiling,woodlands
+woodlands,admiralty
+admiralty,sembawang
+sembawang,canberra
+canberra,yishun
+yishun,khatib
+khatib,yio chu kang
+yio chu kang,ang mo kio
+ang mo kio,bishan
+bishan,braddell
+braddell,toa payoh
+toa payoh,novena
+novena,newton
+newton,orchard
+orchard,somerset
+somerset,dhoby ghaut
+dhoby ghaut,city hall
+city hall,raffles place
+raffles place,marina bay
+marina bay,marina south pier
+bukit batok,jurong east
+bukit gombak,bukit batok
+choa chu kang,bukit gombak
+yew tee,choa chu kang
+kranji,yew tee
+marsiling,kranji
+woodlands,marsiling
+admiralty,woodlands
+sembawang,admiralty
+canberra,sembawang
+yishun,canberra
+khatib,yishun
+yio chu kang,khatib
+ang mo kio,yio chu kang
+bishan,ang mo kio
+braddell,bishan
+toa payoh,braddell
+novena,toa payoh
+newton,novena
+orchard,newton
+somerset,orchard
+dhoby ghaut,somerset
+city hall,dhoby ghaut
+raffles place,city hall
+marina bay,raffles place
+marina south pier,marina bay
+woodlands north,woodlands
+woodlands,woodlands south
+woodlands south,springleaf
+springleaf,lentor
+lentor,mayflower
+mayflower,bright hill
+bright hill,upper thomson
+upper thomson,caldecott
+woodlands,woodlands north
+woodlands south,woodlands
+springleaf,woodlands south
+lentor,springleaf
+mayflower,lentor
+bright hill,mayflower
+upper thomson,bright hill
+caldecott,upper thomson
